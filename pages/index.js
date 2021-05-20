@@ -12,9 +12,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="container  h-screen bg-cover bg-no-repeat" >
+      <main className="container  h-screen bg-cover bg-no-repeat" style={{backgroundImage:`url(/herobg.png)`}}>
       <div>
-        <img  alt="" src="/herobg.png"/>
+        this is the title
       </div>
        </main>
     </div>
